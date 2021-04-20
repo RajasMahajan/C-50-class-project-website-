@@ -1,0 +1,18 @@
+.firstone{
+    justify-content: flex-start;
+    display: flex;
+}
+.secondone{
+    display: flex;
+    justify-content: flex-start;
+}
+.introne{
+    background-color: black;
+    color:white;
+} 
+a{
+    color: yellowgreen;
+}
+.aone{
+    padding-top: -40px;
+}
