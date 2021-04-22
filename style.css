@@ -1,18 +1,28 @@
 .firstone{
-    justify-content: flex-start;
+    /* justify-content: flex-start; */
     display: flex;
+    /* width: 400px; */
+    justify-content: space-between;
+    border-radius: 40px;
+}
+firstone2{
+   padding-left: 50px;
+   
+     display: flex;
 }
 .secondone{
     display: flex;
-    justify-content: flex-start;
+    justify-content: space-between;
+    width: 1650px;
+    
 }
 .introne{
     background-color: black;
     color:white;
 } 
-a{
-    color: yellowgreen;
-}
 .aone{
     padding-top: -40px;
+}
+.images{
+    border-radius: 30px;
 }
