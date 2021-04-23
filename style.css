@@ -2,12 +2,13 @@
     /* justify-content: flex-start; */
     display: flex;
     /* width: 400px; */
+    
     justify-content: space-between;
     border-radius: 40px;
 }
 firstone2{
    padding-left: 50px;
-   
+   background-color: white;
      display: flex;
 }
 .secondone{
@@ -16,13 +17,13 @@ firstone2{
     width: 1650px;
     
 }
+.all{
+    background-color: whitesmoke;
+}
 .introne{
     background-color: black;
     color:white;
 } 
 .aone{
     padding-top: -40px;
-}
-.images{
-    border-radius: 30px;
 }
