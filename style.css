@@ -6,16 +6,15 @@
     justify-content: space-between;
     border-radius: 40px;
 }
-firstone2{
-   padding-left: 50px;
-   background-color: white;
-     display: flex;
-}
 .secondone{
     display: flex;
     justify-content: space-between;
     width: 1650px;
     
+}
+.images{
+    background-color: white;
+     display: flex;
 }
 .all{
     background-color: whitesmoke;
